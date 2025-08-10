@@ -10,13 +10,13 @@ The dashboard contains **three interactive pages**, each focusing on a specific 
 ## 📊 Dashboard Previews
 
 ### Tab 1 – Home (Overview)  
-https://github.com/alebona/hr-dashboard/blob/main/img/home.png
+![Tab 1](https://github.com/alebona/hr-dashboard/blob/main/img/home.png)
 
 ### Tab 2 – Detailed Employee Status  
-https://github.com/alebona/hr-dashboard/blob/main/img/action.png
+![Tab 2](https://github.com/alebona/hr-dashboard/blob/main/img/action.png)
 
 ### Tab 3 – Workforce Insights & Satisfaction  
-https://github.com/alebona/hr-dashboard/blob/main/img/detail.png
+![Tab 3](https://github.com/alebona/hr-dashboard/blob/main/img/detail.png)
 
 ---
 
