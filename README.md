@@ -78,4 +78,4 @@ This project is released under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-Developed by **[Your Name]** – Data Analyst & Power BI Specialist  
+Developed by **Alexandra Bona Abreu** – Data Analyst & Power BI Specialist  
