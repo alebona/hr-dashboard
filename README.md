@@ -7,6 +7,19 @@ The dashboard contains **three interactive pages**, each focusing on a specific 
 
 ---
 
+## 📊 Dashboard Previews
+
+### Tab 1 – Home (Overview)  
+
+
+### Tab 2 – Detailed Employee Status  
+
+
+### Tab 3 – Workforce Insights & Satisfaction  
+
+
+---
+
 ## 🎯 Purpose & Justification
 The execution of this project is based on three main justifications:
 
